@@ -1,0 +1,2 @@
+در این پروژه از نسخه بلد فونت وزیر استفاده شده است
+This project uses the bold version of the Vazir font.
