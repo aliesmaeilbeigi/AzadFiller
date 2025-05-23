@@ -1,0 +1,5 @@
+This file is created to create the Screenshots folder.
+Screenshots related to the project are uploaded to this folder.
+
+این فایل برای ساخت پوشه Screenshots ایجاد شده است
+در این فولدر اسکرین شات های مربوط به پروژه آپلود میشود
