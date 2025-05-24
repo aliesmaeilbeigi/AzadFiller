@@ -37,3 +37,32 @@ Clone the repository from GitHub or download and extract the ZIP file:
 
 ```bash
 git clone https://github.com/aliesmaeilbeigi/AzadFiller.git
+```
+
+✅ Install the extension:
+
+On Chrome and Edge:
+Go to the extensions page. Enable "Developer mode." Click "Load unpacked" and select the project folder.
+
+On Firefox:
+Coming soon to Firefox Add-ons (link will be provided).
+
+✅ Usage:
+
+Go to the instructor evaluation page at https://stdn.iau.ir.
+
+Click the extension icon and press the "Quick Fill & Submit" button.
+
+The extension will automatically select the "Average" options and submit the form.
+
+Note: The extension only works on instructor evaluation pages.
+
+<br><br>
+
+## Limitations and Invitation for Contribution
+Currently, the part related to automatically clicking the "Back" button (after submitting the form) does not fully work. This issue is due to the complexity of the DOM and the different behaviors of pages after refresh. I (Ali) haven’t spent much time fixing this problem, but I invite interested contributors to work on this part! If you have ideas for improvement, please create a Pull Request or contact me on Telegram at @hiaeb.
+
+<br><br>
+
+## ⚠️ Disclaimer:
+This extension is designed solely for the convenience of students. Please use it responsibly. However, using this extension means I do not consider myself responsible for the university’s future! 😂
