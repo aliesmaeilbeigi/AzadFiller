@@ -8,7 +8,7 @@
 
 
 ## عکس افزونه:
-![رابط کاربری افزونه]([AzadFiller/screenshots/2.png](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/0.jpg))
+![رابط کاربری افزونه]([AzadFiller/screenshots/2.png](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/0.jpg)
 
 
 
