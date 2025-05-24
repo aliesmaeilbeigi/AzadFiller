@@ -22,4 +22,4 @@
 - ابتدا مخزن را از گیت‌هاب کلون کنید یا فایل زیپ را دانلود و اکسترکت کنید:
   
   ```bash
-  git clone https://github.com/your-username/azad-filler.git
+  git clone https://github.com/aliesmaeilbeigi/AzadFiller.git
