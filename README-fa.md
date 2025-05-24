@@ -16,7 +16,6 @@
 
 
 
-
 ---
 ## 🛠 تکنولوژی‌های استفاده‌شده
 
@@ -36,12 +35,16 @@
   ```bash
   git clone https://github.com/aliesmaeilbeigi/AzadFiller.git
   ```
-✅ نصب افزونه در کروم:
-به صفحه `chrome://extensions/` بروید.
+✅ نصب افزونه:
 
+- در کروم و ادج
+- 
+به صفحه `extensions` بروید.
 حالت «Developer mode» را فعال کنید.
-
 روی «Load unpacked» کلیک کنید و پوشه پروژه را انتخاب کنید.
+
+- در فایر فاکس:
+- به زودی موجود در Firefox addons
 
 
 ✅ استفاده:
