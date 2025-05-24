@@ -4,7 +4,6 @@
 
 **این پروژه توسط علی اسماعیل بیگی با کمک Grok 3، هوش مصنوعی توسعه‌یافته توسط xAI، ساخته شده است. حتی این فایل README نیز توسط Grok 3 نوشته شده است!**
 <br><br>
-<br><br>
 ## عکس افزونه:
 
 ![Screenshot 1](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/0.jpg ) 
