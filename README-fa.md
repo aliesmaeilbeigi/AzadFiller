@@ -25,5 +25,7 @@
   git clone https://github.com/aliesmaeilbeigi/AzadFiller.git
 ✅ نصب افزونه در کروم:
 به صفحه 'chrome://extensions/' بروید.
+
 حالت «Developer mode» را فعال کنید.
+
 روی «Load unpacked» کلیک کنید و پوشه پروژه را انتخاب کنید.
