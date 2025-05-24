@@ -9,7 +9,7 @@ This is an extension designed to automate the process of filling out faculty eva
 
 The project was developed to save students time, and its initial version was written in under 15 minutes with the help of artificial intelligence.
 
-**This project was created by Ali Esmaeil Beigi with the help of Grok 3, an AI developed by xAI. Even the overall structure of this README file was written by Grok 3!**
+**This project was created by Ali Esmaeilbeigi with the help of Grok 3, an AI developed by xAI. Even the overall structure of this README file was written by Grok 3!**
 
 <br><br>
 
