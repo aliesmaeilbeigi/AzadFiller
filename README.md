@@ -17,7 +17,7 @@ This is second version of an extension designed to automate the process of filli
 <br><br>
 
 ## Changes compared to the previous version (V1):
-- 
+- Added the ability to fill the form with user-selected option.
 
 
 <br><br>
