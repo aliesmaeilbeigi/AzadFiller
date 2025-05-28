@@ -5,7 +5,7 @@
 
 ## About the Project
 
-This is an extension designed to automate the process of filling out instructor evaluation forms on the Islamic Azad University system (https://stdn.iau.ir). The extension fills in all evaluation questions with the student's selected options and automatically clicks the "Submit" and (if possible) "Back" buttons, making the repetitive and time-consuming instructor evaluation process easier for students. This project was developed with the goal of saving students' time, and its initial version was written in less than 15 minutes with the help of artificial intelligence.
+This is second version of an extension designed to automate the process of filling out instructor evaluation forms on the Islamic Azad University system (https://stdn.iau.ir). The extension fills in all evaluation questions with the student's selected options and automatically clicks the "Submit" and (if possible) "Back" buttons, making the repetitive and time-consuming instructor evaluation process easier for students. This project was developed with the goal of saving students' time, and its initial version was written in less than 15 minutes with the help of artificial intelligence.
 
 <br><br>
 
@@ -15,6 +15,13 @@ This is an extension designed to automate the process of filling out instructor 
 
 
 <br><br>
+
+## Changes compared to the previous version (V1):
+- 
+
+
+<br><br>
+
 
 ## Extension Screenshots:
 
