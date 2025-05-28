@@ -5,18 +5,19 @@
 
 ## About the Project
 
-This is an extension designed to automate the process of filling out faculty evaluation forms on the Islamic Azad University system (https://stdn.iau.ir). It simplifies the repetitive and time-consuming evaluation process for students by automatically selecting the "Average" option for all questions and clicking the "Submit" and (if possible) "Back" buttons.
+This is an extension designed to automate the process of filling out instructor evaluation forms on the Islamic Azad University system (https://stdn.iau.ir). The extension fills in all evaluation questions with the student's selected options and automatically clicks the "Submit" and (if possible) "Back" buttons, making the repetitive and time-consuming instructor evaluation process easier for students. This project was developed with the goal of saving students' time, and its initial version was written in less than 15 minutes with the help of artificial intelligence.
 
-The project was developed to save students time, and its initial version was written in under 15 minutes with the help of artificial intelligence.
 
 **This project was created by Ali Esmaeilbeigi with the help of Grok 3, an AI developed by xAI. Even the overall structure of this README file was written by Grok 3!**
+
+**Version 2 of this extension was developed by dear [Amirreza](https://github.com/amirrrreza1).**
+
 
 <br><br>
 
 ## Extension Screenshots:
 
 ![Screenshot 1](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/0.jpg)  
-![Screenshot 2](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/2.jpg)  
 ![Screenshot 3](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/1.jpg)
 
 <br><br>
