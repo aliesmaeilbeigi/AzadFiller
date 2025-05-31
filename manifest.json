@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Azad Filler",
-  "version": "2.0",
-  "description": "این افزونه به شما کمک می‌کنه تا جدول‌های ارزیابی اساتید دانشگاه آزاد رو سریع با گزینه دلخواهتون پر و ثبت  کنید.",
-  "permissions": ["activeTab", "scripting"],
+  "version": "3.0",
+  "description": "این افزونه به شما کمک می‌کنه تا جدول‌های ارزیابی اساتید دانشگاه آزاد رو با حالت‌های اتوماتیک دلخواهی که می‌خواید پر کنید.",
+  "permissions": ["activeTab", "scripting", "tabs"],
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": {
       "16": "icon.png",
       "32": "icon.png",
@@ -13,7 +13,6 @@
       "128": "icon.png"
     }
   },
-  "host_permissions": ["https://stdn.iau.ir/*"],
   "web_accessible_resources": [
     {
       "resources": ["fonts/*"],

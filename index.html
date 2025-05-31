@@ -1,73 +1,60 @@
 <!DOCTYPE html>
-<html>
+<html lang="fa">
 
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>پر کردن سریع</title>
-  <style>
-    @font-face {
-      font-family: 'MyFont';
-      src: url('fonts/myfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    body {
-      width: 200px;
-      padding: 10px;
-      font-family: 'MyFont', Arial, sans-serif;
-      direction: rtl;
-    }
-
-    button {
-      width: 100%;
-      height: 40px;
-      font-size: 16px;
-      background-color: #0d214f;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-family: 'MyFont', Arial, sans-serif;
-      /* Explicitly set font for button */
-    }
-
-    button:hover {
-      background-color: #d5c9a1;
-    }
-
-    a {
-      display: block;
-      margin-top: 2px;
-      text-align: center;
-      color: #0d214f;
-      text-decoration: none;
-      font-size: 9px;
-      font-family: 'MyFont', Arial, sans-serif;
-      /* Explicitly set font for link */
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-  <label for="ratingSelect">انتخاب نمره:</label>
+  <h1 class="title">Azad Filler</h1>
+
+  <label for="ratingSelect" class="label">انتخاب نمره:</label>
   <select id="ratingSelect">
+    <option value="random">تصادفی 🎲</option>
     <option value="خیلی خوب">خیلی خوب</option>
     <option value="خوب">خوب</option>
     <option value="متوسط" selected>متوسط</option>
     <option value="قابل قبول">قابل قبول</option>
     <option value="ضعیف">ضعیف</option>
   </select>
-  <button id="fillQuick">پر کردن و ثبت سریع</button>
-  <div style="text-align:center; font-size:9px; margin-top:10px;">
-    توسعه داده شده توسط هوش مصنوعی و دوست خوبش
-    <a href="https://github.com/aliesmaeilbeigi" target="_blank">علی اسماعیل بیگی</a>
+
+  <div class="checkbox-container">
+    <label class="label"
+      title="با غیر فعال کردن این گزینه، فرم پس از پر کردن به صورت اتوماتیک ثبت و ذخیره نمیشود. کاربرد: وقتی میخواید یک گزینه های خاصی رو قبل از ثبت عوض کنید">
+      <input type="checkbox" id="autoSubmitCheckbox" checked />
+      ثبت خودکار پاسخ ها
+    </label>
   </div>
-  <script src="popup.js"></script>
+
+  <button id="fillQuick">پر کردن سریع فرم</button>
+
+
+
+  <footer class="footer">
+    <div>توسعه داده شده به عشق دانشجویان دانشگاه آزاد❤️</div>
+    <p class="footer-links">
+      <a href="https://t.me/azadfiller" target="_blank">کانال تلگرام پشتیبانی افزونه</a>
+      <span class="footer-separator"></span>
+      <a href="https://github.com/aliesmaeilbeigi/AzadFiller/" target="_blank">گیتهاب پروژه</a>
+    </p>
+  </footer>
+
+
+  <div id="customOverlay" class="overlay">
+    <div class="overlay-content">
+      <h2>❌ این افزونه فقط در صفحه ارزشیابی اساتید قابل استفاده است.</h2>
+      <p>لطفاً ابتدا وارد یکی از صفحات معتبر ارزشیابی اساتید دانشگاه آزاد شوید. در غیر اینصورت:</p>
+      <div>
+        <button id="forceShowBtn" class="force-show-btn">برای دیدن افزونه، کلیک کنید</button>
+      </div>
+    </div>
+  </div>
+  
+
+
+  <script type="module" src="main.js"></script>
 </body>
 
 </html>
