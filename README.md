@@ -11,7 +11,7 @@ This is third version of an extension designed to automate the process of fillin
 
 **The initial version of this project was created by Ali Esmaeilbeigi with the help of Grok 3, an AI developed by xAI. Even the overall structure of this README file was written by Grok 3!**
 
-**Special thanks to dear [Amirreza](https://github.com/amirrrreza1), who stood by me and played a vital role in the development of versions 2 and 3 of this plugin.**
+**Special thanks to dear [Amirreza](https://github.com/amirrrreza1), who stood by me and played a vital role in the development of versions 2 and 3 of this extension.**
 
 <br><br>
 
@@ -24,7 +24,7 @@ This is third version of an extension designed to automate the process of fillin
 
 – Improved automatic response submission (if users need to review and edit some of their answers)
 
-– Added a pre-entry page to the plugin (if the user is not on the valid instructor evaluation pages)
+– Added a pre-entry page to the extension (if the user is not on the valid instructor evaluation pages)
 
 
 
