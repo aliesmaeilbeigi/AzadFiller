@@ -25,8 +25,10 @@ This is second version of an extension designed to automate the process of filli
 
 ## Extension Screenshots:
 
-![Screenshot 0](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/0.jpg)  
 ![Screenshot 1](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/1.jpg)
+![Screenshot 2](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/2.jpg)
+![Screenshot 3](https://github.com/aliesmaeilbeigi/AzadFiller/blob/main/Screenshots/3.jpg)
+
 
 <br><br>
 
