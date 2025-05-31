@@ -72,7 +72,7 @@ Go to the instructor evaluation page at https://stdn.iau.ir.
 
 Click the extension icon and press the "Quick Fill & Submit" button.
 
-The extension will automatically select the "Average" options and submit the form.
+The extension automatically selects your chosen option for all questions and submits the form.
 
 Note: The extension only works on instructor evaluation pages.
 
